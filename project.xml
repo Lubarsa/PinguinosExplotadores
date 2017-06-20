@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<meta title="AniquilacionTotal" package="com.sample.aniquilaciontotal" version="1.0.0" company="Company Name" />
+	<app main="Main" path="Export" file="AniquilacionTotal" />
+	
+	<window background="#EDE8C1" width="500" height="500"/>
+	<window vsync="true" hardware="true" fps="60"/>
+
+
+
+	<source path="Source" />
+	
+	<haxelib name="openfl" />
+	<haxelib name="actuate" />
+	<haxelib name="glue" />
+	<assets path="Assets" rename="assets" />
+	
+</project>
